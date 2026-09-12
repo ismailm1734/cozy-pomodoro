@@ -1,3 +1,5 @@
+Cozy Pomodoro — sakin, sıcak vibeslı bir pomodoro zamanlayıcısı. Odaklanma/mola döngüsü, görev listesi ve arka planda çalabileceğin sakin müzik içerir.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
